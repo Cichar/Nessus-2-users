@@ -1,7 +1,7 @@
 #encoding:utf-8
 
 __author__  = 'Cichar'
-__git__     = ''
+__git__     = 'https://github.com/Cichar/Nessus-2-users'
 __version__ = '0.1'
 
 import requests
